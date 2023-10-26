@@ -22,6 +22,7 @@ main {
     justify-content: space-between;
 }
 
+
 div.top {
     display: flex;
     justify-content: space-between;
@@ -44,7 +45,6 @@ div#crypto-top {
     align-items: center;
     margin-bottom: 5px;
 }
-
 
 div#crypto-top > span {
     margin-left: 10px;
