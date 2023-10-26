@@ -45,6 +45,7 @@ div#crypto-top {
     margin-bottom: 5px;
 }
 
+
 div#crypto-top > span {
     margin-left: 10px;
 }
@@ -61,7 +62,6 @@ div#weather {
 div#weather > img {
     width: 70px;
 }
-
 
 p.weather-city {
     width: 100%;
