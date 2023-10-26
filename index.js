@@ -54,5 +54,5 @@ navigator.geolocation.getCurrentPosition(position => {
                 <p class="weather-city">${data.name}</p>
             `
         })
-        .catch(err => console.error(err))
+        .catch(err => console.error(err));
 });
